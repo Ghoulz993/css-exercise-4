@@ -1,0 +1,39 @@
+html {
+    background-color:rgb(255, 174, 174);
+}
+
+body {
+    margin:0;
+}
+
+.header {
+    background-color:rgb(231, 128, 240);
+    max-width:1000px;
+    margin:auto;
+}
+
+.main-content {
+    display:flex;
+    max-width:1000px;
+    margin:auto;
+    flex-direction:row-reverse;
+    gap:10px;
+}
+
+.sidebar {
+    background-color:rgb(164, 159, 241);
+    padding:10px;
+    margin:10px 10px 10px 0;
+}
+
+.main {
+    background-color:rgb(74, 245, 216);
+    padding:10px;
+    margin:10px 0 10px 0;
+}
+
+.footer {
+    background-color:rgb(231, 128, 240);
+    max-width:1000px;
+    margin:auto;
+}

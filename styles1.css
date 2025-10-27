@@ -1,0 +1,39 @@
+html {
+    background-color:darkgrey;
+}
+
+body {
+    margin:0;
+}
+
+.header {
+    background-color:lightcoral;
+    max-width:1000px;
+    margin:auto;
+}
+
+.main-content {
+    display:flex;
+    max-width:1000px;
+    margin:auto;
+    flex-direction:row;
+    gap:10px;
+}
+
+.sidebar {
+    background-color:lightblue;
+    padding:10px;
+    margin:10px 10px 10px 0;
+}
+
+.main {
+    background-color:lightgreen;
+    padding:10px;
+    margin:10px 0 10px 0;
+}
+
+.footer {
+    background-color:lightyellow;
+    max-width:1000px;
+    margin:auto;
+}
