@@ -17,7 +17,7 @@ body {
     max-width:1000px;
     margin:auto;
     flex-direction:row-reverse;
-    gap:10px;
+    gap:20px;
 }
 
 .sidebar {
